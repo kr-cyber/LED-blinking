@@ -9,7 +9,7 @@ compoenets requied
 
 
 #  STEPS TO BE FOLLOWED 
-STEP-1: make the connection as per the given diagram 
-STEP-2: copy or type the code what I uploaded 
-STEP-3: You can either buy components or stimulate the project and  code in tnkercade 
-STEP-4: Last and final step GIVE A BLOSSOM TO YOUR CREATIVITY 😉😉😉😉
+1. make the connection as per the given diagram 
+2. copy or type the code what I uploaded 
+3. You can either buy components or stimulate the project and  code in tnkercade 
+4. Last and final step GIVE A BLOSSOM TO YOUR CREATIVITY 😉😉😉😉
