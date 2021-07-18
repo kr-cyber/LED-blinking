@@ -1,6 +1,6 @@
 # LED-blinking
 Hey !! guys this is led blinking project 😂😂 rather I will  say simple and basic code when comes to arduino 
-compoenets requied 
+# Compoenets Requied 
 1. arduino uno
 2. breadborad 
 3. led (any colour) 
